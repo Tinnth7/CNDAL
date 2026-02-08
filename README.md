@@ -1,6 +1,6 @@
 # CNDAL
 
-CNDAL is a lightweight Windows client for hosting and downloading small apps without needing to open Discord.  
+CNDAL is a lightweight Windows client for hosting and downloading apps without needing to open Discord.  
 Built for speed, simplicity, and sanity.
 
 ## Why CNDAL?
