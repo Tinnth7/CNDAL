@@ -37,6 +37,3 @@ Expect bugs. Expect changes. Expect improvements.
 - Tkinter
 - PyInstaller
 - NSIS (Modern UI 2)
-
-## Project Structure
-
