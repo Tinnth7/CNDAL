@@ -1,2 +1,43 @@
 # CNDAL
-Cloudycord.net without Discord!
+
+CNDAL is a lightweight Windows client for hosting and downloading small apps without needing to open Discord.  
+Built for speed, simplicity, and sanity.
+
+## Why CNDAL?
+
+Cloudycord started as a Discord server for sharing apps between friends.  
+CNDAL exists because opening Discord to download a 1 MB app taking 4 minutes is… not it.
+
+CNDAL turns that idea into a standalone desktop app.
+
+## Features
+
+- Fast app list loading
+- Simple search and filtering
+- One-click downloads
+- No Discord required
+- Lightweight standalone EXE
+- NSIS installer with desktop shortcut
+
+## Status
+
+🚧 **Beta**  
+Current version: **0.1-beta**
+
+Expect bugs. Expect changes. Expect improvements.
+
+## Installation
+
+1. Download `CNDAL_Setup.exe` from the **Releases** page
+2. Run the installer
+3. Launch CNDAL from your desktop or Start Menu
+
+## Built With
+
+- Python
+- Tkinter
+- PyInstaller
+- NSIS (Modern UI 2)
+
+## Project Structure
+
