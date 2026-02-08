@@ -4,7 +4,7 @@ CNDAL is a lightweight Windows client for hosting and downloading apps without n
 Built for speed, simplicity, and sanity.
 Cloudycord.net Discord server: https://discord.gg/mY2K759s56
 
-# IMPORTANT - AUTO UPDATING:
+## IMPORTANT - AUTO UPDATING:
 When the update is downloading, be patient and wait about 1-2 minutes, then press "ok". Don't do anything with the app until another dialog appears! After it, the old app will close and start the new app. You will see a ".exe.old" file in the folder where you put the old version, just delete it. The newer version also appears there!
 From version 0.5, just download the .exe file and run it. No installation needed.
 
